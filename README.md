@@ -1,5 +1,5 @@
-#Sathyanarayana Mallipudi
+# Sathyanarayana Mallipudi
 
-###Cricket
+### Cricket
 
-**Cricket** is a joyful **team** sport. 
+**Cricket** is a joyful **team** sport.     
