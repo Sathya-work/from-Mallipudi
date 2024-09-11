@@ -6,3 +6,13 @@ It contains chicken cooked slowly with various spices.
 ![Favourite Dish](Biryani.jpg)
 
 ![Link to my Favourite Dish](MyDish.md)
+---
+### Restaurants
+Below is a list of some great restaurants that I recommend.
+
+| Restaurant  | Reason to Recommend    | Location  |
+|-------------|----------------------- |-----------|
+| ShahGouse   | Great Mutton Biryani   | Hyderabad |
+| Meghana's   | Great Boneless Biryani | Bengaluru |
+| Bawarchi    | Oldest place, serves Good food | Hyderabad |
+| Pista House | Zafrani Biryani | Hyderabad |
