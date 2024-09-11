@@ -16,3 +16,11 @@ Below is a list of some great restaurants that I recommend.
 | Meghana's   | Great Boneless Biryani | Bengaluru |
 | Bawarchi    | Oldest place, serves Good food | Hyderabad |
 | Pista House | Zafrani Biryani | Hyderabad |
+
+---
+
+> I'm a huge fan of whiteboards, they are re-markable!
+*Demetri Martin*
+
+> A book is like a baby, you can't really enjoy it until it's finished.
+*Jerry Seinfield*
