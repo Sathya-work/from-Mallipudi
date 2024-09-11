@@ -24,3 +24,12 @@ Below is a list of some great restaurants that I recommend.
 
 > A book is like a baby, you can't really enjoy it until it's finished.
 *Jerry Seinfield*
+
+---
+### Code Snippet
+
+'''SELECT column_name(s)
+FROM table_name
+WHERE column_name BETWEEN value1 AND value2;
+
+Source: [SQL Code Snippet](https://code.pieces.app/collections/sql)
