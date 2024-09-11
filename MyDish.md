@@ -28,7 +28,8 @@ Below is a list of some great restaurants that I recommend.
 ---
 ### Code Snippet
 
-'''SELECT column_name(s)
+'''sql
+SELECT column_name(s)
 FROM table_name
 WHERE column_name BETWEEN value1 AND value2;
 
