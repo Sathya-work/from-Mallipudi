@@ -32,5 +32,6 @@ Below is a list of some great restaurants that I recommend.
  SELECT column_name(s)
 FROM table_name
 WHERE column_name BETWEEN value1 AND value2;
+```
 
-Source: [SQL Code Snippet](https://code.pieces.app/collections/sql)
+![SQL Code Snippet](https://code.pieces.app/collections/sql)
