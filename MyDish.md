@@ -28,6 +28,9 @@ Below is a list of some great restaurants that I recommend.
 ---
 ### Code Snippet
 
+Below is the syntax of selecting column name(s) from a table where column_name is between two values.
+This example also demonstrates the use of BETWEEN operator
+
 ```Sql
  SELECT column_name(s)
 FROM table_name
