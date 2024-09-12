@@ -32,7 +32,7 @@ Below is the syntax of selecting column name(s) from a table where column_name i
 This example also demonstrates the use of BETWEEN operator
 
 ```Sql
- SELECT column_name(s)
+SELECT column_name(s)
 FROM table_name
 WHERE column_name BETWEEN value1 AND value2;
 ```
